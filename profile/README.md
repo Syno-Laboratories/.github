@@ -1,7 +1,3 @@
-
-![Logo](https://avatars.githubusercontent.com/u/325153855?s=200&v=4)
-
-
 # Syno's Lab
 
 This is a Organization that does stuff on games like Roblox
